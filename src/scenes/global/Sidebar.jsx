@@ -38,7 +38,7 @@ const Item = ({ title, to, icon, selected, setSelected }) => {
 const Sidebar = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
-  const [isCollapsed, setIsCollapsed] = useState(false); //sidebar menu collapse
+  const [isCollapsed, setIsCollapsed] = useState(false);
   const [selected, setSelected] = useState("Dashboard");
 
   return (
@@ -110,7 +110,7 @@ const Sidebar = () => {
                   Ed Roh
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Admin
+                  VP Fancy Admin
                 </Typography>
               </Box>
             </Box>
@@ -218,7 +218,7 @@ const Sidebar = () => {
               selected={selected}
               setSelected={setSelected}
             />
-          </Box> 
+          </Box>
         </Menu>
       </ProSidebar>
     </Box>
