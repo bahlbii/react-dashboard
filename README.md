@@ -13,19 +13,19 @@ Live Demo: https://bahlbii-dashboard-react.netlify.app/
 Thank you  @EdRohDev for the tutorial.
 
 ## Demo 
-#### dashboard
+#### Dashboard
 ![dashboard](/public/assets/1dashboard.png "Dashboard")
 
-#### teams
+#### Teams
 ![teams](/public/assets/2teams.png "Teams")
 
-#### contacts
+#### Contacts
 ![contacts](/public/assets/3contacts.png "Contacts")
 
-#### profile
+#### Profile
 ![profile](/public/assets/4profile.png "Profile")
 
-#### Postman tests
-![postman](/public/assets/5linechart.png "Linechart")
+#### Line Chart
+![linechart](/public/assets/5linechart.png "Linechart")
 
 
