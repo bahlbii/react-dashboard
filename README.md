@@ -1,6 +1,6 @@
 # React Admin Dashboard
 
-A react dashboard 
+A react dashboard
 
 Live Demo: https://bahlbii-dashboard-react.netlify.app/
 
@@ -9,6 +9,8 @@ Live Demo: https://bahlbii-dashboard-react.netlify.app/
 1. React + MUI 
 2. Mock user data
 ```
+
+Thank you  @EdRohDev for the tutorial.
 
 ## Demo 
 #### dashboard
