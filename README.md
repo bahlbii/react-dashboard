@@ -10,8 +10,6 @@ Live Demo: https://bahlbii-dashboard-react.netlify.app/
 2. Mock user data
 ```
 
-Thank you  @EdRohDev for the tutorial.
-
 ## Demo 
 #### Dashboard
 ![dashboard](/public/assets/1dashboard.png "Dashboard")
